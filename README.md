@@ -1,5 +1,6 @@
 # Evaluacion 1 Dispositivos Moviles
 
+[https://github.com/nava2105/DispositivosMovilesMateoManosalvas.git](https://github.com/nava2105/DispositivosMovilesMateoManosalvas.git)
 
 ## 1. Descargar los usuarios seguidos de la cuenta de [Instagram](https://www.instagram.com/esedgarcia) @esedgarcia, a través de cualquier técnica de scrapeo, usando librerías revisadas en clase
 
@@ -31,12 +32,12 @@ Función ```get_following```
 
 ## 3. Contesta las preguntas:
 * ¿Qué categorias predominan en los seguidos? 
-    * 
+    * Blog personal y Creador de contenido
 * ¿Qué tipo de contenido parece consumir la cuenta?
-    * 
+    * COntenido de entretenimiento
 * ¿Existe concentración en ciertos influencers, marcas o industrias? 
-    * 
+    * No, la mayoria de seguidos son cuentas personales sin categorias
 * ¿Puede deducirse algún comportamiento, interes o patron del usuario?
-    * 
+    * Usa redes sociales para entretenimiento
 ## 4. ¿Como usaria estos datos para el Ux/Ul de mi App?
 Las cuentas que una persona sigue en sus redes sociales hablan mucho de sus gustos y preferencias, por ende me basaria en esos datos para la paleta de colores y la iconografía de mi proyecto
